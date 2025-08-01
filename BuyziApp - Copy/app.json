@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "BuyziApp",
+    "slug": "BuyziApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/NewLogo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/NewLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "usesCleartextTraffic": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/NewLogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/NewLogo.png"
+    }
+  }
+}
